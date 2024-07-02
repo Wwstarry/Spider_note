@@ -12,7 +12,8 @@
 
 **动态网页下载：**Selenium
 
-## 简单的爬虫架构![1](D:\大学\大二上\2023暑假学习\爬虫学习\1.jpg)
+## 简单的爬虫架构!
+[1](https://github.com/Wwstarry/Spider_note/blob/main/1.jpg)
 
 ## 网页下载器（使用requests库）
 
@@ -56,7 +57,7 @@ r.cookies <!--服务端要写入本地的cookies数据-->
 
 ## URL管理器（管理爬取的URL，防止重复和循环爬取，支持新增和取出URL）
 
-![2](D:\大学\大二上\2023暑假学习\爬虫学习\2.jpg)
+[2](https://github.com/Wwstarry/Spider_note/blob/main/2.jpg)
 
 **核心代码实现：**
 
@@ -112,7 +113,7 @@ r.cookies <!--服务端要写入本地的cookies数据-->
 
 ## 网页解析器（使用Beautiful Soup库）
 
-![3](D:\大学\大二上\2023暑假学习\爬虫学习\3.jpg)
+[3](https://github.com/Wwstarry/Spider_note/blob/main/3.jpg)
 
 `from bs4 import BeautifulSoup`
 
